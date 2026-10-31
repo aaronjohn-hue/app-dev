@@ -1,8 +1,8 @@
 # app-dev
 My first repository
 
-My Favorite Movies **bold text**
+**My Favorite Movies**
 -----------  ----------- 
-1. Transformer
-2. Space Jam
-3. Spider Man
+ Transformer
+ Space Jam
+ Spider Man
